@@ -8,7 +8,7 @@ from ecdsa.ecdsa import generator_secp256k1
 # ✅ Dane z pierwszej transakcji
 r1 = int("ced8474e7cbb2c9ade8b4a6474c3fa8ea4036718d844f3105dde155a6583a134", 16)
 s1 = int("1c9e070de661d5913d457c6f075641ec28c8c8f4fe336070710787e471ebd558  ", 16)
-z1 = int("876e9343f6846e54128270a756aa79f76df0c46a5f59821efb936c9396ac7605", 16)
+z1 = int("0cf7190cc6c1f95b987e0e284e4eba44552f89662272b850b059a8dc0d8905a8   ", 16)
 
 # ✅ Dane z drugiej transakcji
 r2 = int("a92de155df39a35e154940d8f8f78c23fe772c35855fc16ca7cddea31ab9e75a", 16)
