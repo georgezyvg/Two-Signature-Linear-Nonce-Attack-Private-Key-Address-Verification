@@ -13,7 +13,7 @@ z1 = int("0cf7190cc6c1f95b987e0e284e4eba44552f89662272b850b059a8dc0d8905a8   ", 
 # ✅ Dane z drugiej transakcji
 r2 = int("ceda0e7cfe7e6da20b3e1b08877e722eceba96574f50b78c8b03618e4c6ce18c", 16)
 s2 = int("034a6987bc4e6cfac6a8a5ed767ccbbf47cfb15323b3ebb44f3e72ee6148e255", 16)
-z2 = int("b91d628805f11c602df82fd34e792e604963efd6e08c7efac188d176ae561319", 16)
+z2 = int("e204e6d82b618ec35cbb3d0c902d76a00d4afa6cfbb37e797309a73a0b5ddb55", 16)
 
 # ✅ Stała wartość krzywej secp256k1 (order n)
 n = generator_secp256k1.order()
