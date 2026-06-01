@@ -59,7 +59,7 @@ def generate_addresses_from_private_key(d):
 bech32_addr, nested_p2sh_addr = generate_addresses_from_private_key(d)
 
 # ✅ Oczekiwane adresy
-expected_p2sh = "3M219KR5vEneNb47ewrPfWyb5jQ2DjxRP6"
+expected_p2sh = "3C9fjvRDGc1VK2hKJ6EVFBMc65Nc463dUV"
 expected_bech32 = "bc1qqufw4em00p4pr8s2xuna883ly4jj9tqer808c5"
 
 print("\n🚀 ✅ **Obliczone adresy:**")
